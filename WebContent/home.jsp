@@ -7,6 +7,7 @@
 <title>Bank App</title>
 </head>
 <body align="center">
+
 	<h1>Money Money Bank</h1>
 	<div>
 	<a href="addNewAccount.bankApp">Add New Account</a></br/>
